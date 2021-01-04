@@ -7,5 +7,4 @@ Hola 👋, I'm ROHIT RANNAVRE!
 - 📫 Contact me here: 
                   @[*ResearchGate*](https://www.researchgate.net/profile/Rohit_Rannavre2),
                   @[*ORCID*](https://orcid.org/0000-0001-8722-3052),
-                  @[*Facebook*](https://www.facebook.com/profile.php?id=100051675616742%29) 
-- ⚡ Fun fact: Nope, I'm not gonna tell you.
+                  @[*Facebook*](https://www.facebook.com/profile.php?id=100051675616742%29)
