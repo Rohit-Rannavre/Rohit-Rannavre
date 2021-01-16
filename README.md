@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: **BASH for Bioinformatics**
 - 👯 I’m looking to collaborate on: **Data Science projects**
 - 🤝 I’m looking for help with: **Bioinformatics related projects**
-- 💬 Ask me about: **C, Python, Linux, BASH, MySQL, Git**
+- 💬 Ask me about: **Data Science**
 - 📫 Contact me here: 
                   @[*ResearchGate*](https://www.researchgate.net/profile/Rohit_Rannavre2),
                   @[*ORCID*](https://orcid.org/0000-0001-8722-3052),
