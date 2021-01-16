@@ -5,10 +5,10 @@
 
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="350">
 
-- 🌱 I’m currently learning **BASH for Bioinformatics**
-- 👯 I’m looking to collaborate on **Data Science projects**
-- 🤝 I’m looking for help with **Bioinformatics related projects**
-- 💬 Ask me about: C, Python, Linux, BASH, MySQL, Git
+- 🌱 I’m currently learning: **BASH for Bioinformatics**
+- 👯 I’m looking to collaborate on: **Data Science projects**
+- 🤝 I’m looking for help with: **Bioinformatics related projects**
+- 💬 Ask me about: **C, Python, Linux, BASH, MySQL, Git**
 - 📫 Contact me here: 
                   @[*ResearchGate*](https://www.researchgate.net/profile/Rohit_Rannavre2),
                   @[*ORCID*](https://orcid.org/0000-0001-8722-3052),
