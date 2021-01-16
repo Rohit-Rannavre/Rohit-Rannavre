@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-rannavre&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-rannavre" /> </p>
 <h3 align="left">I am a PhD student in Biology who is passionate not only about the fauna of India, but also about applying Data Science tools and techniques on fields such as taxonomy, phylogenetics and biogeography.</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="300">
+<img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="350">
 
 - 🌱 I’m currently learning **BASH for Bioinformatics**
 - 👯 I’m looking to collaborate on **Data Science projects**
