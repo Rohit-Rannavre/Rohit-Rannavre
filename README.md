@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-rannavre&label=Profile%20Views&color=0e75b6&style=flat" alt="rohit-rannavre" /> </p>
      I am a PhD student in Zoology who is passionate not only about the fauna of India, but also about applying Data Science tools and techniques on fields such as taxonomy,  phylogenetics and biogeography.
 
-<img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="450">
+<img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="400">
 
 - 🌱 I’m currently learning: **BASH for Bioinformatics**
 - 👯 I’m looking to collaborate on: **Data Science projects**
@@ -19,6 +19,8 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="VScode" width="40" height="40"/> <img src="https://pbs.twimg.com/profile_images/954072623410917376/fGBUdNf__400x400.jpg" alt="jupyter" width="50" height="50"/> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"[https://www.github.com/Rohit-Rannavre] alt="github" width="40" height="40"/> </a>
+<p align="left">
+<a href="https://fb.com/rohit r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rohit r" height="30" width="40" /></a>
+</p>
      
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-rannavre&show_icons=true&locale=en&layout=compact" alt="rohit-rannavre" /></p>
