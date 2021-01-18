@@ -8,10 +8,9 @@
 - 👯 I’m looking to collaborate on: **Data Science projects**
 - 🤝 I’m looking for help with: **Bioinformatics related projects**
 - 💬 Ask me about: **Data Science**
-- 📫 Contact me here: 
-                  @[*ResearchGate*](https://www.researchgate.net/profile/Rohit_Rannavre2),
-                  @[*ORCID*](https://orcid.org/0000-0001-8722-3052),
-                  @[*Facebook*](https://www.facebook.com/profile.php?id=100051675616742%29)
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >](https://github.com/Rohit-Rannavre/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](rohit.rannavre@gmail.com) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" >](https://facebook.com/profile.php?id=100051675616742)
+                  
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://amiradata.com/wp-content/uploads/2020/02/pandas-python.png" alt="pandas" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" alt="NumPy" width="40" height="40"/> </a> <img src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" alt="SciPy" width="40" height="40"/> </a> <img src="https://files.gitter.im/matplotlib/matplotlib/ce1y/thumb/matplotlib-sticker.png" alt="Matplotlib" width="40" height="40"/> </a> <img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" alt="Seaborn" width="40" height="40"/> </a>  
