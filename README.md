@@ -1,5 +1,8 @@
 <h1 align="left">Hello 👋, I'm Rohit Rannavre</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-rannavre&label=Profile%20Views&color=0e75b6&style=flat" alt="rohit-rannavre" /> </p>
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >](https://github.com/Rohit-Rannavre/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](rohit.rannavre@gmail.com) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" >](https://facebook.com/profile.php?id=100051675616742)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rohit-rannavre&label=Profile%20Views&color=0e75b6&style=flat" alt="rohit-rannavre" /> </p>
      I am a PhD student in Zoology who is passionate not only about the fauna of India, but also about applying Data Science tools and techniques on fields such as taxonomy,  phylogenetics and biogeography.
 
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="400">
@@ -8,8 +11,6 @@
 - 👯 I’m looking to collaborate on: **Data Science projects**
 - 🤝 I’m looking for help with: **Bioinformatics related projects**
 - 💬 Ask me about: **Data Science**
-
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" >](https://github.com/Rohit-Rannavre/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](rohit.rannavre@gmail.com) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" >](https://facebook.com/profile.php?id=100051675616742)
                   
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://amiradata.com/wp-content/uploads/2020/02/pandas-python.png" alt="pandas" width="40" height="40"/>
