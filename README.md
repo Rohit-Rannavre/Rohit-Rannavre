@@ -18,7 +18,3 @@ I am a PhD student in Zoology who is passionate not only about the fauna of Indi
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-rannavre&show_icons=true&locale=en" alt="rohit-rannavre" /></p>
 
 [![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=Rohit-Rannavre&show_icons=true&hide_rank=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-********************************************************************************************************************************************************************************
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rohit-Rannavre&repo=Bash-Scripts&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
