@@ -4,7 +4,7 @@ I am a PhD student in Zoology who is passionate not only about the fauna of Indi
 
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="400">
 
-- 🌱 I’m currently learning: **BASH for Bioinformatics**
+- 🌱 I’m currently learning: **Shell Scripting**
 - 👯 I’m looking to collaborate on: **Data Science projects**
 - 🤝 I’m looking for help with: **Bioinformatics related projects**
 - 💬 Ask me about: **Data Science**
