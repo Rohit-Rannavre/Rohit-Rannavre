@@ -1,6 +1,6 @@
 <h1 align="left">Hello World 👋, I'm Rohit Rannavre</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-rannavre&label=Profile%20Views&color=0e75b6&style=flat" alt="rohit-rannavre" /> </p>
-I am a PhD student in Zoology who is passionate not only about the fauna of India, but also about applying Data Science tools and techniques on fields such as Taxonomy,  Phylogenetics and Biogeography. If you do the kind of work I do, feel free to be in touch with me :slightly_smiling_face:
+I am a PhD student in Zoology who is passionate not only about the fauna of India, but also about applying Data Science tools and techniques on fields such as Taxonomy,  Phylogenetics and Biogeography. If you do the kind of work I do, feel free to be in touch with me. I would like to know more about you and yor work. Cheers! :slightly_smiling_face:
 
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="400">
 
