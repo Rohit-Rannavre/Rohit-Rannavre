@@ -1,6 +1,6 @@
 <h1 align="left">Hello World 👋, I'm Rohit Rannavre</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-rannavre&label=Profile%20Views&color=0e75b6&style=flat" alt="rohit-rannavre" /> </p>
-I am a PhD student at the University of Mumbai who is deeply interested into the fauna of India, especially the lesser-known diplopod (millipede) fauna. I am also passionate about reptiles :snake:, amphibians :frog:, and scorpions :scorpion:. I jumped into this field as I aim to learn and apply Data Science tools and techniques on fields such as Taxonomy, Bioinformatics (Phylogenetics only) and Biogeography. If you do the kind of work I intend to do, feel free to be in touch. I would like to know more about you and your work. Cheers! :slightly_smiling_face:
+I am a PhD student at the University of Mumbai who is deeply interested into the fauna of India, especially the lesser-known diplopod (millipede) fauna. I am also passionate about reptiles :snake:, amphibians :frog:, and scorpions :scorpion:. My ultimate aim is to apply Data Science tools and techniques on fields such as Taxonomy, Bioinformatics (Phylogenetics only) and Biogeography. Cheers! :slightly_smiling_face:
 
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="400">
 
