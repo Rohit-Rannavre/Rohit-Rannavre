@@ -8,7 +8,7 @@ I am an immature biologist who is deeply interested into the fauna of India, esp
 - 👯 I’m looking to collaborate on: **Data Science projects**
 - 🤝 I’m looking for help with: **Bioinformatics-related projects**
 - 💬 Ask me about: **Python, R & BASH**
-- 📫 Contact me here: @[*ResearchGate*](https://www.researchgate.net/profile/Rohit_Rannavre2), @[*ORCID*](https://orcid.org/0000-0001-8722-3052), @[*Facebook*](https://www.facebook.com/profile.php?id=100051675616742%29)
+- 📫 Contact me here: @[*ResearchGate*](https://www.researchgate.net/profile/Rohit_Rannavre2), @[*ORCID*](https://orcid.org/0000-0001-8722-3052), @[*Twitter*](www.twitter.com/itsR0Hit) @[*Facebook*](https://www.facebook.com/profile.php?id=100051675616742%29)
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://amiradata.com/wp-content/uploads/2020/02/pandas-python.png" alt="pandas" width="40" height="40"/>
