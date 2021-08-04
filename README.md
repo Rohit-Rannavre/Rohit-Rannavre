@@ -7,7 +7,7 @@ I am an immature biologist who is deeply interested into the fauna of India, esp
 - 🌱 I’m currently learning: **Python for Data Science**
 - 👯 I’m looking to collaborate on: **Data Science projects**
 - 🤝 I’m looking for help with: **Bioinformatics-related projects**
-- 💬 Ask me about: **Python, R & BASH**
+- 💬 Ask me about: **Python, Data Science & Machine Learning**
 - 📫 Contact me here: @[*LinkedIn*](https://www.linkedin.com/in/Rohit-Rannavre) @[*Twitter*](www.twitter.com/Rohit_Rannavre) @[*ResearchGate*](https://www.researchgate.net/profile/Rohit_Rannavre2) @[*ORCID*](https://orcid.org/0000-0001-8722-3052)
 
 <h3 align="left">Languages & Tools:</h3>
