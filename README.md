@@ -1,12 +1,11 @@
 <h1 align="left">Hello World 👋, I'm Rohit Rannavre</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-rannavre&label=Profile%20Views&color=0e75b6&style=flat" alt="rohit-rannavre" /> </p>
-I am a PhD scholar at Mumbai University, being deeply interested into the fauna of India, especially the lesser-known diplopod (millipede) fauna. I am also passionate about reptiles :snake:, amphibians :frog:, and scorpions :scorpion:. In addition to all that, I enjoy learning Data Science, Machine learning & Deep learning tools and techniques. Cheers! :slightly_smiling_face:
+ 
+</p> I am a PhD scholar at Mumbai University, being deeply interested into the fauna of India, especially the lesser-known diplopod (millipede) fauna. Additionally, I enjoy learning Data Science, Machine learning & Deep learning tools and techniques. Cheers! :slightly_smiling_face:
 
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="400">
 
 - 📫 Contact me here: @[*LinkedIn*](https://www.linkedin.com/in/Rohit-Rannavre) @[*Twitter*](www.twitter.com/Rohit_Rannavre) @[*ResearchGate*](https://www.researchgate.net/profile/Rohit_Rannavre2) @[*ORCID*](https://orcid.org/0000-0001-8722-3052)
 
-<h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/> 
 </a> <img src="https://amiradata.com/wp-content/uploads/2020/02/pandas-python.png" width="40" height="40" alt="pandas"/>
@@ -22,6 +21,3 @@ I am a PhD scholar at Mumbai University, being deeply interested into the fauna 
 </a> <img src="https://pbs.twimg.com/profile_images/954072623410917376/fGBUdNf__400x400.jpg" width="50" height="50" alt="jupyter"/>
 </a> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" alt="google_colab"/> 
 </a> </p>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohit-Rannavre&show_icons=true&locale=en" alt="rohit-rannavre" /></p>
-
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=Rohit-Rannavre&show_icons=true&hide_rank=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
