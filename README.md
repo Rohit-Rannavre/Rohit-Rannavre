@@ -1,6 +1,6 @@
 <h1 align="left">Hello World 👋, I'm Rohit Rannavre</h1>
  
-</p> I am a PhD scholar at Mumbai University, being deeply interested into the fauna of India, especially the lesser-known diplopod (millipede) fauna. Additionally, I enjoy learning Data Science, Machine Learning & Deep Learning tools and techniques. Cheers! :slightly_smiling_face:
+</p> I am a PhD scholar at Mumbai University, being deeply interested into the fauna of India, especially the lesser-known diplopod (millipede) fauna. Additionally, I am a self-taught learner of Data Science, Machine Learning & Deep Learning tools and techniques. Cheers! :slightly_smiling_face:
 
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="400">
 
