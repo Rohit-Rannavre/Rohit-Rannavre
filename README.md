@@ -4,7 +4,7 @@
 
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="400">
 
-- 📫 Contact me here: @[*LinkedIn*](https://www.linkedin.com/in/rohit-rannavre) @[*Twitter*](www.twitter.com/Rohit_Rannavre) @[*ResearchGate*](https://www.researchgate.net/profile/Rohit_Rannavre2) @[*ORCID*](https://orcid.org/0000-0001-8722-3052)
+- 📫 Contact me here: @[*LinkedIn*](https://www.linkedin.com/in/rohit-rannavre) @[*Twitter*](www.twitter.com/Phylorohitics) @[*ResearchGate*](https://www.researchgate.net/profile/Rohit_Rannavre2) @[*ORCID*](https://orcid.org/0000-0001-8722-3052)
 
 <p align="left"> 
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/> 
