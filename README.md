@@ -4,7 +4,6 @@
 
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="400">
 
-- 📫 Contact me here: @[*LinkedIn*](https://www.linkedin.com/in/rohit-rannavre) @[*Twitter*](https://twitter.com/Phylorohitics) @[*ResearchGate*](https://www.researchgate.net/profile/Rohit_Rannavre2) @[*ORCID*](https://orcid.org/0000-0001-8722-3052)
 
 <p align="left"> 
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/> 
@@ -22,3 +21,9 @@
 </a> <img src="https://pbs.twimg.com/profile_images/954072623410917376/fGBUdNf__400x400.jpg" width="50" height="50" alt="jupyter"/>
 </a> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" alt="google_colab"/> 
 </a> </p>
+
+### ***Let's connect:*** 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Phylorohitics) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rohit_Rannavre2)
