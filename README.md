@@ -1,4 +1,4 @@
-# Hello World <img align=0 src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="40" height="35">, Rohit Rannavre here
+# Hey, Rohit here <img align="center" src="https://media.tenor.com/YYCNyNNNW3YAAAAC/emoji-tongue-out.gif" width="50">
  
 I am a PhD scholar at the University of Mumbai, India, being deeply interested into the taxonomy and the phylogenetics of the lesser-known diplopod (millipede) fauna. Additionally, I am a self-taught Data Scientist. Cheers! :slightly_smiling_face:
 
