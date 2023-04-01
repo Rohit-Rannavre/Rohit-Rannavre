@@ -14,7 +14,6 @@ I am a PhD scholar at the University of Mumbai, India, being deeply interested i
 </a> <img src="https://files.gitter.im/matplotlib/matplotlib/ce1y/thumb/matplotlib-sticker.png" width="40" height="40" alt="Matplotlib"/> 
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="scikit_learn"/> 
 </a> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/>
-</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="40" height="40" alt="keras"/> 
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="mysql"/> 
 </a> <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest?cb=20200213050332" width="40" height="40" alt="powerbi"/>
 </a> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" alt="tableau"/>
