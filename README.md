@@ -2,7 +2,7 @@
  
 I am a PhD scholar at the University of Mumbai, India, being deeply interested into the taxonomy, phylogenetics and phylogeography of the millipede fauna. Additionally, I am a self-taught data scientist.
 
-<img align="right" src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width=350>
+<img align="right" src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width=320>
 
 ### **Arsenal:**
 <p align="left"> 
