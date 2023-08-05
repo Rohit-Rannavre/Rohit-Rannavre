@@ -21,6 +21,7 @@ I am a PhD scholar at the University of Mumbai, India, being deeply interested i
 </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
 </a> <img src="https://pbs.twimg.com/profile_images/954072623410917376/fGBUdNf__400x400.jpg" width="50" height="50" alt="jupyter"/>
 </a> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" alt="google_colab"/> 
+</a> <img src="https://runcode.io/_next/image?url=https%3A%2F%2Fruncode-app-public.s3.amazonaws.com%2Fimages%2Fkisspng-bash-shell-script-command-line-interfac.original.png&w=1080&q=75" width="40" height="40" alt="bash"/> 
 </a> </p>
 
 ### ***Let's connect:*** 
