@@ -4,7 +4,6 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 
 <img align="right" src="https://www.insegment.com/blog/wp-content/uploads/2020/11/chatbot-marketing.gif" width=320>
 
-### **Arsenal:**
 <p align="left"> 
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/> 
 </a> <img src="https://amiradata.com/wp-content/uploads/2020/02/pandas-python.png" width="40" height="40" alt="pandas"/>
@@ -23,7 +22,7 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" alt="google_colab"/> 
 </a> </p>
 
-### ***Let's connect:*** 
+### ***Let's get connected:*** 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Phylorohitics)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)
