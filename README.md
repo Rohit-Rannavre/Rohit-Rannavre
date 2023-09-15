@@ -1,6 +1,6 @@
 # Hey, Rohit here <img align="center" src="https://media.tenor.com/YYCNyNNNW3YAAAAC/emoji-tongue-out.gif" width="50">
  
-I am a PhD scholar at the University of Mumbai, India, with a profound interest in the taxonomy, phylogenetics and phylogeography of Indian millipedes. Moreover, I possess self-taught skills in the field of data science.
+I am a PhD scholar at the University of Mumbai, India, with a profound interest in taxonomy, phylogenetics and phylogeography. Moreover, I possess self-taught skills in the field of data science.
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="200" height="200" alt="robot"/>
 
