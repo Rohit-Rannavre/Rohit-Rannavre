@@ -10,6 +10,7 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" width="40" height="40" alt="NumPy"/> 
 </a> <img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" width="40" height="40" alt="Seaborn"/>
 </a> <img src="https://files.gitter.im/matplotlib/matplotlib/ce1y/thumb/matplotlib-sticker.png" width="40" height="40" alt="Matplotlib"/> 
+</a> <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/vgay5hqdvszlmvud3hwu" width="40" height="40" alt="Plotly"/>
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="scikit_learn"/> 
 </a> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/>
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="mysql"/> 
