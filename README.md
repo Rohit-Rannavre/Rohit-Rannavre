@@ -4,6 +4,7 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="200" height="250" alt="robot"/>
 
+***
 <p align="left"> 
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/> 
 </a> <img src="https://amiradata.com/wp-content/uploads/2020/02/pandas-python.png" width="40" height="40" alt="pandas"/>
@@ -19,3 +20,5 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
 </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
 </a> </p>
+
+***
