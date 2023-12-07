@@ -18,8 +18,6 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" alt="tableau"/>
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
 </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
-</a> <img src="https://pbs.twimg.com/profile_images/954072623410917376/fGBUdNf__400x400.jpg" width="50" height="50" alt="jupyter"/>
-</a> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" alt="google_colab"/> 
 </a> </p>
 
 ### ***Let's get connected:*** 
