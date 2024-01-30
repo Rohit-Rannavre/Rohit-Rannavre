@@ -1,6 +1,6 @@
 # Hey, Rohit here
 
-I am a PhD scholar at the University of Mumbai, India, with a profound interest in taxonomy, phylogenetics and phylogeography. Additionally, I possess skills in the data science domain.
+I am a PhD scholar at the University of Mumbai, India, with a profound interest in taxonomy, phylogenetics and phylogeography. Additionally, I possess skills in the realm of data science.
 
 ***
 <p align="left"> 
