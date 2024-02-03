@@ -17,7 +17,7 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/>
 </a> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" width="30" height="40" alt="statsmodels"/>
 </a> <img src="https://forecastr-io.herokuapp.com/static/img/facebook_prophet_icon.png" width="40" height="40" alt="prophet"/>
-</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="mysql"/> 
+</a> <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" width="40" height="40" alt="mysql"/> 
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
 </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
 </a> </p>
