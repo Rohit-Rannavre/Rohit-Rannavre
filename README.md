@@ -1,4 +1,4 @@
-# Hey, Rohit here
+# Hey, Rohit here <img src="https://media.tenor.com/Duk1hRXLi38AAAAi/long-livethe-blob-eyes-rolling.gif" width="50" height="50" alt="emoji"/>
 
 I am a PhD scholar at the University of Mumbai, India, with a profound interest in taxonomy, phylogenetics and phylogeography. Additionally, I possess skills in the realm of data science.
 
