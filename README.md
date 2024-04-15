@@ -20,9 +20,10 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://www.zartis.com/wp-content/uploads/2021/12/apache-spark-logo-e1638964493910.png" width="40" height="40" alt="spark"/>
 </a> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" width="30" height="40" alt="statsmodels"/>
 </a> <img src="https://forecastr-io.herokuapp.com/static/img/facebook_prophet_icon.png" width="40" height="40" alt="prophet"/>
-</a> <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" width="40" height="40" alt="mysql"/> 
-</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
+</a> <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" width="40" height="40" alt="mysql"/>
 </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
+</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
+</a> <img src="" width="40" height="40" alt="windows"/>
 </a> </p>
 
 ***
