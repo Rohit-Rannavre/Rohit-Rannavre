@@ -22,6 +22,7 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://forecastr-io.herokuapp.com/static/img/facebook_prophet_icon.png" width="40" height="40" alt="prophet"/>
 </a> <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" width="40" height="40" alt="mysql"/>
 </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
+</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="50" height="40" alt="googlecolab"/>
 </a> <img src="https://www.svgrepo.com/show/373718/jupyter.svg" width="40" height="40" alt="jupyter"/>
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
 </a> <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="40" height="35" alt="windows"/>
