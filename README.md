@@ -23,7 +23,7 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" width="40" height="40" alt="mysql"/>
 </a> <img src="https://www.zartis.com/wp-content/uploads/2021/12/apache-spark-logo-e1638964493910.png" width="40" height="40" alt="spark"/>
 </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
-</a> <img src="https://asset.brandfetch.io/idSUrLOWbH/idxN8rZ-u3.png" width="40" height="40" alt="databricks"/>
+</a> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/databrickslogo-freelogovectors.net_.png" width="35" height="35" alt="databricks"/>
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="50" height="40" alt="googlecolab"/>
 </a> <img src="https://www.svgrepo.com/show/373718/jupyter.svg" width="40" height="40" alt="jupyter"/>
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
