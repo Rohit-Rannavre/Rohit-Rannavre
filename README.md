@@ -30,7 +30,8 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 
 ***
 <p align="left">
-  </a> <img src="https://pbs.twimg.com/profile_images/1329744684969811968/Xio1tWDJ_400x400.jpg" width="40" height="40" alt="msa"/>
+</a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8GGppDAY6rIIVhlDNVlySt9qzvNX5DZdaQRGww0QqicmbcXdDfgVBndg-GPMtIo0_T0&usqp=CAU" width="30" height="40" alt="ncbi"/>
+</a> <img src="https://pbs.twimg.com/profile_images/1329744684969811968/Xio1tWDJ_400x400.jpg" width="40" height="40" alt="msa"/>
 </a> <img src="https://tecnoideas20.com/wp-content/uploads/2020/03/Mega-logo.png" width="40" height="40" alt="mega"/>
 </a> <img src="https://home.cc.umanitoba.ca/~psgendb/doc/Phylip/phylip.gif" width="40" height="40" alt="phylip"/>
 </a> <img src="https://www.sc.fsu.edu/images/paup2.jpg" width="40" height="35" alt="paup"/>
