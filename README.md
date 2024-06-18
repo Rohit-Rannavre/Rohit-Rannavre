@@ -38,4 +38,5 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://www.france-genomique.org/wp-content/uploads/2019/04/atgc_logo.jpg" width="40" height="35" alt="phyml"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYfxwM09dutbGOSvWpRppZ5aRod4n-dZ0lw&s" width="40" height="35" alt="iqtree"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHGKWNUvOikbu0Ca1V5F0oD5VwnGu8_9OrWg&s" width="35" height="35" alt="mrbayes"/>
+</a> <img src="https://beast.community/images/beast-medium.png" width="35" height="40" alt="beast"/>
 </a> </p>
