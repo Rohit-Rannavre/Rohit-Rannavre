@@ -3,8 +3,12 @@
 I am a PhD scholar at the University of Mumbai, India, with a profound interest in taxonomy, phylogenetics and phylogeography. Additionally, I possess skills in the realm of data science.
 
 ***
+
+### Data Science Tools:
 <p align="left"> 
-</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/> 
+</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
+</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" width="40" height="40" alt="excel"/>
+</a> <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" width="40" height="40" alt="mysql"/>
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="40" height="40" alt="pandas"/>
 </a> <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" width="40" height="40" alt="NumPy"/>
 </a> <img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" width="40" height="40" alt="Seaborn"/>
@@ -17,8 +21,6 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="40" height="40" alt="keras"/>
 </a> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" width="30" height="40" alt="statsmodels"/>
 </a> <img src="https://forecastr-io.herokuapp.com/static/img/facebook_prophet_icon.png" width="40" height="40" alt="prophet"/>
-</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" width="40" height="40" alt="excel"/>
-</a> <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" width="40" height="40" alt="mysql"/>
 </a> <img src="https://www.zartis.com/wp-content/uploads/2021/12/apache-spark-logo-e1638964493910.png" width="40" height="40" alt="spark"/>
 </a> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/databrickslogo-freelogovectors.net_.png" width="35" height="35" alt="databricks"/>
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" width="50" height="40" alt="gc"/>
@@ -28,14 +30,16 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="40" height="35" alt="windows"/>
 </a> </p>
 
-***
+<br>
+
+### Phylogenetics Tools:
 <p align="left">
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8GGppDAY6rIIVhlDNVlySt9qzvNX5DZdaQRGww0QqicmbcXdDfgVBndg-GPMtIo0_T0&usqp=CAU" width="30" height="40" alt="ncbi"/>
 </a> <img src="https://pbs.twimg.com/profile_images/1329744684969811968/Xio1tWDJ_400x400.jpg" width="40" height="40" alt="msa"/>
 </a> <img src="https://tecnoideas20.com/wp-content/uploads/2020/03/Mega-logo.png" width="40" height="40" alt="mega"/>
 </a> <img src="https://home.cc.umanitoba.ca/~psgendb/doc/Phylip/phylip.gif" width="40" height="40" alt="phylip"/>
 </a> <img src="https://www.sc.fsu.edu/images/paup2.jpg" width="40" height="35" alt="paup"/>
-</a> <img src="https://yt3.googleusercontent.com/ytc/AIdro_lzfk8OZGctY5JEe0X7r2-JQ3xnoXqC7-VppFVVIFGM0w=s900-c-k-c0x00ffffff-no-rj" width="40" height="35" alt="tnt"/>
+</a> <img src="https://yt3.googleusercontent.com/ytc/AIdro_lzfk8OZGctY5JEe0X7r2-JQ3xnoXqC7-VppFVVIFGM0w=s900-c-k-c0x00ffffff-no-rj" width="40" height="40" alt="tnt"/>
 </a> <img src="https://pbs.twimg.com/profile_images/1323261572203089920/DfAzFKVd_400x400.jpg" width="35" height="35" alt="raxml"/>
 </a> <img src="https://www.france-genomique.org/wp-content/uploads/2019/04/atgc_logo.jpg" width="40" height="35" alt="phyml"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYfxwM09dutbGOSvWpRppZ5aRod4n-dZ0lw&s" width="40" height="35" alt="iqtree"/>
@@ -45,3 +49,5 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://img.informer.com/icons_mac/png/128/198/198195.png" width="35" height="40" alt="figtree"/>
 </a> <img src="https://itol.embl.de/img/control_head.png" width="35" height="40" alt="itol"/>
 </a> </p>
+
+***
