@@ -35,5 +35,5 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://www.sc.fsu.edu/images/paup2.jpg" width="40" height="35" alt="paup"/>
 </a> <img src="https://yt3.googleusercontent.com/ytc/AIdro_lzfk8OZGctY5JEe0X7r2-JQ3xnoXqC7-VppFVVIFGM0w=s900-c-k-c0x00ffffff-no-rj" width="40" height="35" alt="tnt"/>
 </a> <img src="https://pbs.twimg.com/profile_images/1323261572203089920/DfAzFKVd_400x400.jpg" width="35" height="35" alt="raxml"/>
-</a> <img src="https://ngphylogeny.fr/static/images/logo_atgc.png" width="40" height="30" alt="phyml"/>
+</a> <img src="https://www.france-genomique.org/wp-content/uploads/2019/04/atgc_logo.jpg" width="40" height="35" alt="phyml"/>
 </a> </p>
