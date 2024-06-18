@@ -31,8 +31,6 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="40" height="35" alt="windows"/>
 </a> </p>
 
-<br>
-
 ### :star: Phylogenetics Tools
 ***
 <p align="left">
