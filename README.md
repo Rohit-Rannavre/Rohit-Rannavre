@@ -32,4 +32,5 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 <p align="left"> 
 </a> <img src="https://miro.medium.com/v2/resize:fit:512/1*poXP6gQijdU2F5gBIaBlGQ.jpeg" width="40" height="40" alt="mega"/>
 </a> <img src="https://home.cc.umanitoba.ca/~psgendb/doc/Phylip/phylip.gif" width="40" height="40" alt="phylip"/>
+</a> <img src="https://www.sc.fsu.edu/images/paup2.jpg" width="40" height="35" alt="paup"/>
 </a> </p>
