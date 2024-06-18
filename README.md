@@ -2,6 +2,8 @@
 
 I am a PhD scholar at the University of Mumbai, India, with a profound interest in taxonomy, phylogenetics and phylogeography. Additionally, I possess skills in the realm of data science.
 
+<img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
+
 ### Data Science Tools:
 <p align="left"> 
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
