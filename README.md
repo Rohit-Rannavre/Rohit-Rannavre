@@ -49,3 +49,7 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://img.informer.com/icons_mac/png/128/198/198195.png" width="35" height="40" alt="figtree"/>
 </a> <img src="https://itol.embl.de/img/control_head.png" width="35" height="40" alt="itol"/>
 </a> </p>
+
+### ***Let's connect:*** 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)
