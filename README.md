@@ -3,9 +3,9 @@
 I am a PhD scholar at the University of Mumbai, India, with a profound interest in taxonomy and evolutionary biology. Additionally, I possess skills in the realm of data science.
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
-  
-### :star: Data Science Tools
-***
+
+<br>
+
 <p align="left"> 
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" width="40" height="40" alt="excel"/>
@@ -31,22 +31,7 @@ I am a PhD scholar at the University of Mumbai, India, with a profound interest 
 </a> <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="40" height="35" alt="windows"/>
 </a> </p>
 
-### :star: Phylogenetics Tools
-***
-<p align="left">
-</a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8GGppDAY6rIIVhlDNVlySt9qzvNX5DZdaQRGww0QqicmbcXdDfgVBndg-GPMtIo0_T0&usqp=CAU" width="30" height="40" alt="ncbi"/>
-</a> <img src="https://pbs.twimg.com/profile_images/1329744684969811968/Xio1tWDJ_400x400.jpg" width="40" height="40" alt="msa"/>
-</a> <img src="https://img.informer.com/icons/png/48/5187/5187040.png" width="35" height="35" alt="chromas"/>
-</a> <img src="https://tecnoideas20.com/wp-content/uploads/2020/03/Mega-logo.png" width="40" height="40" alt="mega"/>
-</a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7DZMHm6GNfYjwsI1CuxBP-mI6BOhko_jxQ&s" width="40" height="35" alt="partitionfinder"/>
-</a> <img src="https://pbs.twimg.com/profile_images/1323261572203089920/DfAzFKVd_400x400.jpg" width="35" height="35" alt="raxml"/>
-</a> <img src="https://www.france-genomique.org/wp-content/uploads/2019/04/atgc_logo.jpg" width="40" height="35" alt="phyml"/>
-</a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYfxwM09dutbGOSvWpRppZ5aRod4n-dZ0lw&s" width="40" height="35" alt="iqtree"/>
-</a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHGKWNUvOikbu0Ca1V5F0oD5VwnGu8_9OrWg&s" width="35" height="35" alt="mrbayes"/>
-</a> <img src="https://beast.community/images/beast-medium.png" width="35" height="40" alt="beast"/>
-</a> <img src="https://justinbagley.rbind.io/images/beast2.png" width="35" height="35" alt="beast2"/>
-</a> <img src="https://img.informer.com/icons_mac/png/128/198/198195.png" width="35" height="36" alt="figtree"/>
-</a> </p>
+<br>
 
 ### ***Let's connect:*** 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre)
