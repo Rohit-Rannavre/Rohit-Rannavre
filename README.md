@@ -1,6 +1,6 @@
 # Hey, Rohit here <img src="https://media.tenor.com/Duk1hRXLi38AAAAi/long-livethe-blob-eyes-rolling.gif" width="50" height="50" alt="emoji"/>
 
-I am a PhD scholar at the University of Mumbai, India, with a profound interest in taxonomy and evolutionary biology. Additionally, I possess skills in the realm of data science.
+I am currently pursuing a PhD at the University of Mumbai, India, with a deep focus on taxonomy and evolutionary biology. In addition to my biological research, I also have expertise in data science.
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
