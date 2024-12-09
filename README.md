@@ -33,6 +33,6 @@ I am currently pursuing a PhD at the University of Mumbai, India, with a deep fo
 
 <br>
 
-### ***Let's connect:*** 
+### ***Let's get connected:*** 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)
