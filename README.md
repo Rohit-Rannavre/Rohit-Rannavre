@@ -11,7 +11,7 @@ I am currently pursuing a PhD at Mumbai University, India, with a deep focus on 
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" width="40" height="40" alt="excel"/>
 </a> <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" width="40" height="40" alt="mysql"/>
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="40" height="40" alt="pandas"/>
-</a> <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" width="40" height="40" alt="NumPy"/>
+</a> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="40" height="40" alt="NumPy"/>
 </a> <img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" width="40" height="40" alt="Seaborn"/>
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="40" height="40" alt="Matplotlib"/> 
 </a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" width="40" height="40" alt="Plotly"/>
