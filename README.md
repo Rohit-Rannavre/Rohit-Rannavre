@@ -1,6 +1,6 @@
 # Hey, Rohit here <img src="https://media.tenor.com/Duk1hRXLi38AAAAi/long-livethe-blob-eyes-rolling.gif" width="50" height="50" alt="emoji"/>
 
-I am currently pursuing a PhD at Mumbai University, India, with a deep focus on taxonomy and evolutionary biology. Alongside my biological research, I also have expertise in data science.
+I am currently pursuing a PhD at Mumbai University, India, with a strong focus on taxonomy and evolutionary biology. In addition to my biological research, I also have expertise in data science and Geographic Information Systems (GIS).
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
@@ -29,6 +29,7 @@ I am currently pursuing a PhD at Mumbai University, India, with a deep focus on 
 </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
 </a> <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="40" height="35" alt="windows"/>
+</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/2048px-QGIS_logo_new.svg.png" width="30" height="35" alt="qgis"/>
 </a> </p>
 
 <br>
