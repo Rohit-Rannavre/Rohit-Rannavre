@@ -37,7 +37,6 @@ I am currently pursuing a PhD at Mumbai University, India, with a strong focus o
 </a> <img src="https://tecnoideas20.com/wp-content/uploads/2020/03/Mega-logo.png" width="40" height="40" alt="mega"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7DZMHm6GNfYjwsI1CuxBP-mI6BOhko_jxQ&s" width="40" height="35" alt="partitionfinder"/>
 </a> <img src="https://pbs.twimg.com/profile_images/1323261572203089920/DfAzFKVd_400x400.jpg" width="35" height="35" alt="raxml"/>
-</a> <img src="https://www.france-genomique.org/wp-content/uploads/2019/04/atgc_logo.jpg" width="40" height="35" alt="phyml"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYfxwM09dutbGOSvWpRppZ5aRod4n-dZ0lw&s" width="40" height="35" alt="iqtree"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHGKWNUvOikbu0Ca1V5F0oD5VwnGu8_9OrWg&s" width="35" height="35" alt="mrbayes"/>
 </a> <img src="https://beast.community/images/beast-medium.png" width="35" height="40" alt="beast"/>
