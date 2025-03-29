@@ -32,7 +32,7 @@ I am currently pursuing a PhD at Mumbai University, India, with a strong focus o
 
 #### Phylogenetics:
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8GGppDAY6rIIVhlDNVlySt9qzvNX5DZdaQRGww0QqicmbcXdDfgVBndg-GPMtIo0_T0&usqp=CAU" width="30" height="40" alt="ncbi"/>
-</a> <img src="https://pbs.twimg.com/profile_images/1329744684969811968/Xio1tWDJ_400x400.jpg" width="40" height="40" alt="msa"/>
+</a> <img src="https://pbs.twimg.com/profile_images/1329744684969811968/Xio1tWDJ_400x400.jpg" width="40" height="40" alt="embl"/>
 </a> <img src="https://img.informer.com/icons/png/48/5187/5187040.png" width="35" height="35" alt="chromas"/>
 </a> <img src="https://tecnoideas20.com/wp-content/uploads/2020/03/Mega-logo.png" width="40" height="40" alt="mega"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7DZMHm6GNfYjwsI1CuxBP-mI6BOhko_jxQ&s" width="40" height="35" alt="partitionfinder"/>
@@ -40,8 +40,8 @@ I am currently pursuing a PhD at Mumbai University, India, with a strong focus o
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYfxwM09dutbGOSvWpRppZ5aRod4n-dZ0lw&s" width="40" height="35" alt="iqtree"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHGKWNUvOikbu0Ca1V5F0oD5VwnGu8_9OrWg&s" width="35" height="35" alt="mrbayes"/>
 </a> <img src="https://beast.community/images/beast-medium.png" width="35" height="40" alt="beast"/>
-</a> <img src="https://justinbagley.rbind.io/images/beast2.png" width="35" height="35" alt="beast2"/>
 </a> <img src="https://img.informer.com/icons_mac/png/128/198/198195.png" width="35" height="36" alt="figtree"/>
+</a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSn0So7p6Q01M1SlGOrrxz8kZfCnMGCZjtxA&s" width="35" height="36" alt="chiplot"/>
 
 #### GIS:
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/2048px-QGIS_logo_new.svg.png" width="30" height="35" alt="qgis"/>
