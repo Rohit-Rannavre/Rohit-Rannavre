@@ -33,7 +33,6 @@ I am currently pursuing a PhD at Mumbai University, India, with a strong focus o
 #### Phylogenetics:
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8GGppDAY6rIIVhlDNVlySt9qzvNX5DZdaQRGww0QqicmbcXdDfgVBndg-GPMtIo0_T0&usqp=CAU" width="30" height="40" alt="ncbi"/>
 </a> <img src="https://pbs.twimg.com/profile_images/1329744684969811968/Xio1tWDJ_400x400.jpg" width="40" height="40" alt="embl"/>
-</a> <img src="https://img.informer.com/icons/png/48/5187/5187040.png" width="35" height="35" alt="chromas"/>
 </a> <img src="https://img.informer.com/icons_mac/png/128/586/586845.png" width="35" height="35" alt="bioedit"/>
 </a> <img src="https://tecnoideas20.com/wp-content/uploads/2020/03/Mega-logo.png" width="40" height="40" alt="mega"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7DZMHm6GNfYjwsI1CuxBP-mI6BOhko_jxQ&s" width="40" height="35" alt="partitionfinder"/>
