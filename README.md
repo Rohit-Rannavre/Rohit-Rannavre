@@ -38,6 +38,7 @@ I am currently pursuing a PhD at Mumbai University, India, with a strong focus o
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7DZMHm6GNfYjwsI1CuxBP-mI6BOhko_jxQ&s" width="40" height="35" alt="partitionfinder"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYfxwM09dutbGOSvWpRppZ5aRod4n-dZ0lw&s" width="40" height="35" alt="iqtree"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHGKWNUvOikbu0Ca1V5F0oD5VwnGu8_9OrWg&s" width="35" height="35" alt="mrbayes"/>
+</a> <img src="https://avatars.githubusercontent.com/u/8773726?s=200&v=4" width="35" height="35" alt="*beast"/>
 </a> <img src="https://img.informer.com/icons_mac/png/128/198/198195.png" width="35" height="36" alt="figtree"/>
 
 #### GIS:
