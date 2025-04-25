@@ -34,7 +34,9 @@ I am currently pursuing a PhD at Mumbai University, India, with a strong focus o
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8GGppDAY6rIIVhlDNVlySt9qzvNX5DZdaQRGww0QqicmbcXdDfgVBndg-GPMtIo0_T0&usqp=CAU" width="30" height="40" alt="ncbi"/>
 </a> <img src="https://pbs.twimg.com/profile_images/1329744684969811968/Xio1tWDJ_400x400.jpg" width="40" height="40" alt="embl"/>
 </a> <img src="https://img.informer.com/icons_mac/png/128/586/586845.png" width="35" height="35" alt="bioedit"/>
+</a> <img src="https://mafft.cbrc.jp/alignment/server/ou.png" width="35" height="35" alt="mafft"/>
 </a> <img src="https://tecnoideas20.com/wp-content/uploads/2020/03/Mega-logo.png" width="35" height="40" alt="mega"/>
+</a> <img src="https://image.pngaaa.com/397/5642397-middle.png" width="35" height="40" alt="mesquite"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7DZMHm6GNfYjwsI1CuxBP-mI6BOhko_jxQ&s" width="40" height="35" alt="partitionfinder"/>
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYfxwM09dutbGOSvWpRppZ5aRod4n-dZ0lw&s" width="40" height="35" alt="iqtree"/>
 </a> <img src="https://pbs.twimg.com/profile_images/1323261572203089920/DfAzFKVd_400x400.jpg" width="35" height="35" alt="raxml"/>
