@@ -30,20 +30,6 @@ I’m currently pursuing a PhD at Mumbai University, where I’m knee-deep in ta
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
 </a> <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" width="40" height="35" alt="windows"/>
 
-#### Phylogenetics:
-</a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8GGppDAY6rIIVhlDNVlySt9qzvNX5DZdaQRGww0QqicmbcXdDfgVBndg-GPMtIo0_T0&usqp=CAU" width="30" height="40" alt="ncbi"/>
-</a> <img src="https://pbs.twimg.com/profile_images/1329744684969811968/Xio1tWDJ_400x400.jpg" width="40" height="40" alt="embl"/>
-</a> <img src="https://img.informer.com/icons_mac/png/128/586/586845.png" width="35" height="35" alt="bioedit"/>
-</a> <img src="https://mafft.cbrc.jp/alignment/server/ou.png" width="35" height="35" alt="mafft"/>
-</a> <img src="https://tecnoideas20.com/wp-content/uploads/2020/03/Mega-logo.png" width="35" height="40" alt="mega"/>
-</a> <img src="https://images.squarespace-cdn.com/content/v1/5dc6577631b7714fd3f61653/1573750277674-D58DIINCMFJ51CAHV6WG/mesquiteLarge.gif" width="35" height="40" alt="mesquite"/>
-</a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7DZMHm6GNfYjwsI1CuxBP-mI6BOhko_jxQ&s" width="40" height="35" alt="partitionfinder"/>
-</a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYfxwM09dutbGOSvWpRppZ5aRod4n-dZ0lw&s" width="40" height="35" alt="iqtree"/>
-</a> <img src="https://pbs.twimg.com/profile_images/1323261572203089920/DfAzFKVd_400x400.jpg" width="35" height="35" alt="raxml"/>
-</a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHGKWNUvOikbu0Ca1V5F0oD5VwnGu8_9OrWg&s" width="35" height="35" alt="mrbayes"/>
-</a> <img src="https://avatars.githubusercontent.com/u/8773726?s=200&v=4" width="35" height="35" alt="beast2"/>
-</a> <img src="https://img.informer.com/icons_mac/png/128/198/198195.png" width="35" height="36" alt="figtree"/>
-
 #### GIS:
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/2048px-QGIS_logo_new.svg.png" width="30" height="35" alt="qgis"/>
 
