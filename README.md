@@ -1,6 +1,6 @@
 # Hey, Rohit here <img src="https://media.tenor.com/Duk1hRXLi38AAAAi/long-livethe-blob-eyes-rolling.gif" width="50" height="50" alt="emoji"/>
 
-I’m currently pursuing a PhD at Mumbai University, where I’m knee-deep in taxonomy and evolutionary biology, basically figuring out who’s flirting with who in the tree of life. When I’m not busy untangling nature’s dating history, I’m crunching numbers and mapping the planet with data science and GIS. One more thing: I’m a great coder—just ask my Python scripts!
+I’m currently pursuing a PhD at Mumbai University, where I’m knee-deep in taxonomy and evolutionary biology, basically figuring out who’s flirting with who in the tree of life. When I’m not busy untangling nature’s dating history, I’m crunching numbers and mapping the planet with data science and GIS. One more thing: I’m a cool coder—just ask my Python scripts!
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
