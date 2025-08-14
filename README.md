@@ -15,7 +15,6 @@ I’m an evolutionary biologist—basically figuring out who’s flirting with w
 </a> <img src="https://i1.wp.com/cmdlinetips.com/wp-content/uploads/2020/09/Seaborn_logo.png?resize=234%2C246&ssl=1" width="40" height="40" alt="Seaborn"/>
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="40" height="40" alt="Matplotlib"/> 
 </a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-EQVYaCLHffaiDXUvf-aM9Na8qN5LZBcGw&s" width="40" height="40" alt="Plotly"/>
-</a> <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest?cb=20200213050332" width="40" height="40" alt="powerbi"/>
 </a> <img src="https://avatars.githubusercontent.com/u/57251745?s=280&v=4" width="40" height="40" alt="optuna"/>
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="scikit_learn"/>
 </a> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/>
