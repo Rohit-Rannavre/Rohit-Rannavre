@@ -6,7 +6,6 @@ I’m an evolutionary biologist, basically figuring out who’s flirting with wh
 
 <br>
 
-#### Arsenal:
 </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
 </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" width="40" height="40" alt="excel"/>
 </a> <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" width="40" height="40" alt="mysql"/>
