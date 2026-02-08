@@ -1,6 +1,6 @@
 # Hello world, Rohit here <img src="https://media.tenor.com/Duk1hRXLi38AAAAi/long-livethe-blob-eyes-rolling.gif" width="50" height="50" alt="emoji"/>
 
-I’m an evolutionary biologist, basically figuring out who’s flirting with whom in the tree of life with the help of *phylogenetics*. When I’m not busy untangling nature’s dating history, I’m crunching numbers and mapping the planet with data science and GIS. Oh, and one more thing: I’m a cool coder, just ask my Python scripts!
+I’m an evolutionary biologist, basically figuring out who is flirting with whom in the tree of life with the help of *phylogenetics*. When I’m not busy untangling nature’s dating history, I’m crunching numbers and mapping the planet with data science and GIS. Oh, and one more thing: I’m a cool coder, just ask my Python scripts!
 
 <img align="right" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="250" height="300" alt="bot"/>
 
